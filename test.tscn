@@ -9,3 +9,11 @@ offset_right = 643.0
 offset_bottom = 192.0
 text = "play 
 "
+
+[node name="Button2" type="Button" parent="."]
+offset_left = 426.0
+offset_top = 286.0
+offset_right = 633.0
+offset_bottom = 349.0
+text = "play 
+"
